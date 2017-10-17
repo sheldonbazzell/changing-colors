@@ -5,16 +5,16 @@ div {
   }
   
   .parent {
-    width: 80vw;
-    height: 80vw;
+    width: 322px;
     display: flex;
     flex-wrap: wrap;
     margin: 0 auto;
+    border: 1px solid black;
   }
   
   .child {
-    width: 20vw;
+    width: 80px;
     background: white;
-    height: 20vw;
+    height: 80px;
     border: 1px solid black;
   }
